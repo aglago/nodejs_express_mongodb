@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "name": "Samuella",
+        "age": 19,
+        "school": "UMaT",
+        "year of graduation": 2025
+    },
+    {
+        "id": 1,
+        "name": "Samuella",
+        "age": 19,
+        "school": "UMaT",
+        "year of graduation": 2025
+    },
+    {
+        "id": 2,
+        "name": "Samuella",
+        "age": 19,
+        "school": "UMaT",
+        "year of graduation": 2025
+    },
+    {
+        "id": 3,
+        "name": "Samuella",
+        "age": 19,
+        "school": "UMaT",
+        "year of graduation": 2025
+    },
+    {
+        "id": 4,
+        "name": "Samuella",
+        "age": 19,
+        "school": "UMaT",
+        "year of graduation": 2025
+    }
+]
